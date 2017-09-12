@@ -14,5 +14,6 @@
         "iconv-lite": "^0.4.19",
         "mri": "^1.1.0",
         "slice-file": "^1.0.0"
-    }
+    },
+    "author": "rayyee <foreveryulei@gmail.com>"
 }
