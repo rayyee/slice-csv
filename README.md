@@ -2,7 +2,7 @@
 
 ### Install
 
-`yarn add slice-csv`
+`yarn global add slice-csv`
 
 ### Usage
 
