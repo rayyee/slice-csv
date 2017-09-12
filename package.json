@@ -3,6 +3,10 @@
     "version": "0.0.1",
     "main": "index.js",
     "license": "MIT",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/rayyee/slice-csv.git"
+    },
     "bin": {
         "slice-csv": "./bin/slice-csv.js"
     },
