@@ -1,0 +1,14 @@
+{
+    "name": "slice-csv",
+    "version": "0.0.1",
+    "main": "index.js",
+    "license": "MIT",
+    "bin": {
+        "slice-csv": "./bin/slice-csv.js"
+    },
+    "dependencies": {
+        "iconv-lite": "^0.4.19",
+        "mri": "^1.1.0",
+        "slice-file": "^1.0.0"
+    }
+}
