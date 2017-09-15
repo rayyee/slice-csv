@@ -1,5 +1,12 @@
 # slice-csv
 
+🌘 Simple to slice csv file
+
+### Warning
+
+Only support MacOS or Linux platform,    
+Use `cat foo.csv | wc -l` to count rows.
+
 ### Install
 
 `yarn global add slice-csv`
